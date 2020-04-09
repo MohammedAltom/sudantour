@@ -1,0 +1,108 @@
+body, html {
+    height: 100%;
+    background-image: linear-gradient(to bottom, #ab6e03,#d49113,#d49113, #a86c03);  
+    vertical-align: top;
+  }
+  h1{
+    color: #4a2f00;
+    font-family: serif;
+    text-shadow: 2px 2px 2px #cf8a11;
+  }
+  h2{
+    margin-top: 5px;
+    color: #4a2f00;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2px 2px 2px #cf8a11;
+  }
+  h3{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2px 2px 2px #cf8a11;
+  }
+  h4{
+    color: black;
+    font-family: serif, Helvetica, sans-serif;
+    text-shadow: 2px 2px 2px #cf8a11;
+  }
+  a:hover {
+    cursor: pointer;
+  }
+.Mapdiv{
+    background-image: url('../Images/BackgroundMap.jpg'); 
+  /* background-image: linear-gradient(to bottom, #ab6e03, #a86c03);   */
+    height: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .8;
+    padding-top: 2%;
+    text-align: center;
+    margin-top: 0px;
+    border-bottom: solid black thin;
+}
+.SdImage{
+    width: 70%;
+    height: 70%;
+}
+
+path:hover{
+  fill: #cf8300;
+}
+.TxtDiv{
+  text-align: center;
+  background-image: linear-gradient(to right, black ,#ab6e03 ,#ab6e03 , black);
+  padding-top: 10px;
+  margin-bottom: 0px;
+  border-bottom: solid black thin;
+}
+.RegionCont{
+  text-align: center;
+  padding: 10px;
+  display: none;
+}
+
+.CarCont{
+  width: 80%;
+  height: 30%;
+  max-width: 80%;
+  max-height: 30%;
+  margin: 0px auto;
+  
+}
+.d-block{
+  border-radius: 5px;
+  box-shadow: 3px 3px 3px #cf8300;
+  max-height: 600px;
+}
+.AbtSud{
+  border-top: solid black thin;
+  padding: 25px;
+  background-image: linear-gradient(to bottom, #d49113 ,#ab6e03 ,#ab6e03 , black);
+}
+.SudDesc{
+  color: black;
+  font-weight: bold;
+  font-family: serif;
+  text-shadow: 0px 0px 1px white;
+}
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 30%; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: #4f3b02; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 50%; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+
+  transition: .5s;
+}
+
+#myBtn:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}

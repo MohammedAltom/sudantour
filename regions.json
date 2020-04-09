@@ -1,0 +1,104 @@
+{
+    "BlueNile":{
+        "Name":"Blue Nile State",
+        "Picture1":".\\Images\\BN1.jpg",
+        "Picture2":".\\Images\\BN2.jpg",
+        "Picture3":".\\Images\\BN3.jpg"
+    },
+    "RedSea":{
+        "Name":"Red Sea State",
+        "Picture1":".\\Images\\RS1.jpg",
+        "Picture2":".\\Images\\RS2.jpg",
+        "Picture3":".\\Images\\RS3.jpg"
+    },
+    "EasternDarfur":{
+        "Name":"Eastern Darfur State",
+        "Picture1":".\\Images\\ED1.jpg",
+        "Picture2":".\\Images\\ED2.jpg",
+        "Picture3":".\\Images\\ED3.jpg"
+    },
+    "WesternDarfur":{
+        "Name":"Western Darfur State",
+        "Picture1":".\\Images\\WD1.jpg",
+        "Picture2":".\\Images\\WD2.jpg",
+        "Picture3":".\\Images\\WD3.jpg"
+    },
+    "SouthernDarfur":{
+        "Name":"Southern Darfur State",
+        "Picture1":".\\Images\\SD1.jpg",
+        "Picture2":".\\Images\\SD2.jpg",
+        "Picture3":".\\Images\\SD3.jpg"
+    },
+    "CentralDarfur":{
+        "Name":"Central Darfur State",
+        "Picture1":".\\Images\\CD1.jpg",
+        "Picture2":".\\Images\\CD2.jpg",
+        "Picture3":".\\Images\\CD3.jpg"
+    },
+    "Khartoum":{
+        "Name":"Khartoum State",
+        "Picture1":".\\Images\\KH1.jpg",
+        "Picture2":".\\Images\\KH2.jpg",
+        "Picture3":".\\Images\\KH3.jpg"
+    },
+    "Gezira":{
+        "Name":"Gezira State",
+        "Picture1":".\\Images\\GZ1.jpg",
+        "Picture2":".\\Images\\GZ2.jpg",
+        "Picture3":".\\Images\\GZ3.jpg"
+    },
+    "Gedarif":{
+        "Name":"Gedarif State",
+        "Picture1":".\\Images\\GD1.jpg",
+        "Picture2":".\\Images\\GD2.jpg",
+        "Picture3":".\\Images\\GD3.jpg"
+    },
+    "RiverNile":{
+        "Name":"River Nile State",
+        "Picture1":".\\Images\\RN1.jpg",
+        "Picture2":".\\Images\\RN2.jpg",
+        "Picture3":".\\Images\\RN3.jpg"
+    },
+    "Northern":{
+        "Name":"Northern State",
+        "Picture1":".\\Images\\NN1.jpg",
+        "Picture2":".\\Images\\NN2.jpg",
+        "Picture3":".\\Images\\NN3.jpg"
+    },
+    "WhiteNile":{
+        "Name":"White Nile State",
+        "Picture1":".\\Images\\WN1.jpg",
+        "Picture2":".\\Images\\WN2.jpg",
+        "Picture3":".\\Images\\WN3.jpg"
+    },
+    "Sennar":{
+        "Name":"Sennar State",
+        "Picture1":".\\Images\\SN1.jpg",
+        "Picture2":".\\Images\\SN2.jpg",
+        "Picture3":".\\Images\\SN3.jpg"
+    },
+    "NorthDarfur":{
+        "Name":"North Darfur State",
+        "Picture1":".\\Images\\ND1.jpg",
+        "Picture2":".\\Images\\ND2.jpg",
+        "Picture3":".\\Images\\ND3.jpg"
+    },
+    "SouthKordufan":{
+        "Name":"South Kordufan State",
+        "Picture1":".\\Images\\SK1.jpg",
+        "Picture2":".\\Images\\SK2.jpg",
+        "Picture3":".\\Images\\Sk3.jpg"
+    },
+    "NorthKordufan":{
+        "Name":"North Kordufan State",
+        "Picture1":".\\Images\\NK1.jpg",
+        "Picture2":".\\Images\\NK2.jpg",
+        "Picture3":".\\Images\\NK3.jpg"
+    },
+    "Kassala":{
+        "Name":"Kassala State",
+        "Picture1":".\\Images\\KA1.jpg",
+        "Picture2":".\\Images\\KA2.jpg",
+        "Picture3":".\\Images\\KA3.jpg"
+    }
+}
